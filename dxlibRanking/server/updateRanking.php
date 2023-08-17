@@ -35,6 +35,3 @@ foreach($arr as $key => $temp)
     $db->query($que);
     $cout++;
 }
-
-
-?>
